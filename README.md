@@ -1,6 +1,6 @@
 <hr style="height:1px; border:none; color:#000; background-color:#000; margin-top: 0px; margin-bottom: 0px;"/>
 
-<h3 align="center"> Exercícios de JavaScript para a matéria de Desenvolvimento Mobile </h3>
+<h1 align="center"> Exercícios de JavaScript para a matéria de Desenvolvimento Mobile </h1>
 
 <h3>🚀 Sobre o desafio: </h3> <p> Crie uma aplicação para armazenar projetos e suas tarefas do zero utilizando <a href="https://expressjs.com/pt-br/"> Express. </a> </p>
 <hr style="height:0.5px; border:none; color:#000; background-color:#000; margin-top: 0px; margin-bottom: 0px;"/>
